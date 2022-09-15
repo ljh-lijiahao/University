@@ -1,1 +1,1 @@
-![](./lqb.png)
+![lqb](./lqb.png)
